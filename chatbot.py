@@ -1,7 +1,7 @@
 import openai
 
 #open ai 키 입력
-openai.api_key = 'sk-proj-HzTpiTuKRLhKAhc2mFFT3BlbkFJm45VEnXAZQtI78VVVc9Kjw'
+openai.api_key = 'your api key'
 
 def chat_with_gpt(prompt):
   response = openai.ChatCompletion.create(
