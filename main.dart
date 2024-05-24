@@ -1,52 +1,80 @@
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
-import 'dart:convert';
+import 'package:geolocator/geolocator.dart';
 
-void main() {
-  runApp(MyApp());
+void main() => runApp(MyApp());
+
+class MyApp extends StatefulWidget {
+  @override
+  _MyAppState createState() => _MyAppState();
 }
 
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: HomeScreen(),
-    );
-  }
-}
+class _MyAppState extends State<MyApp> {
+  String _locationMessage = "";  // 사용자에게 위치 정보를 보여줄 문자열 변수
 
-class HomeScreen extends StatefulWidget {
-  @override
-  _HomeScreenState createState() => _HomeScreenState();
-}
+  void _getCurrentLocation() async {
+    bool serviceEnabled;
+    LocationPermission permission;
 
-class _HomeScreenState extends State<HomeScreen> {
-  String _data = 'Loading...';
+    // 위치 서비스 활성화 여부 확인
+    serviceEnabled = await Geolocator.isLocationServiceEnabled();
+    if (!serviceEnabled) {
+      setState(() {
+        _locationMessage = "위치 서비스가 비활성화되어 있습니다.";
+      });
+      return;
+    }
 
-  @override
-  void initState() {
-    super.initState();
-    fetchData();
-  }
+    // 위치 권한 확인 및 요청
+    permission = await Geolocator.checkPermission();
+    if (permission == LocationPermission.denied) {
+      permission = await Geolocator.requestPermission();
+      if (permission == LocationPermission.denied) {
+        setState(() {
+          _locationMessage = "위치 권한이 거부되었습니다.";
+        });
+        return;
+      }
+    }
 
-  Future<void> fetchData() async {
-    var url = 'http://10.0.2.2:5000/get_variable';  // 서버 IP 주소 변경
-    var response = await http.get(Uri.parse(url)); //HTTP 요청을 통해 데이터를 가져오는 부분
-    var decoded = jsonDecode(response.body);
+    if (permission == LocationPermission.deniedForever) {
+      setState(() {
+        _locationMessage = "위치 권한이 영구적으로 거부되었습니다. 설정에서 변경해주세요.";
+      });
+      return;
+    }
 
+    // 실제 위치 정보 가져오기
+    Position position = await Geolocator.getCurrentPosition();
     setState(() {
-      _data = decoded['value'];
+      _locationMessage = "위치: ${position.latitude}, ${position.longitude}";
     });
   }
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('Fetch Data from Python'),
-      ),
-      body: Center(
-        child: Text(_data),
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Flutter 위치 추적 예제'),
+        ),
+        body: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: <Widget>[
+              Text(_locationMessage),
+              TextButton(
+                onPressed: _getCurrentLocation,
+                child: Text('현재 위치 가져오기'),
+                style: TextButton.styleFrom(
+                  backgroundColor: Colors.blue,
+                  foregroundColor: Colors.white,
+                  disabledBackgroundColor: Colors.grey,
+                  disabledForegroundColor: Colors.black,
+                ),
+              ),
+            ],
+          ),
+        ),
       ),
     );
   }
