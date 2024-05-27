@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:geocoding/geocoding.dart'; // 이 줄을 추가하세요
+import 'package:geocoding/geocoding.dart';
 import 'barcode_scanner_screen.dart';
 import 'chatbot_service.dart';
 import 'location_service.dart';
@@ -15,7 +15,7 @@ class ChatbotScreen extends StatefulWidget {
 
 class _ChatbotScreenState extends State<ChatbotScreen> {
   final TextEditingController _controller = TextEditingController();
-  final List<String> _messages = [];
+  final List<Map<String, String>> _messages = [];
   bool _isLoading = false;
   final ChatbotService _chatbotService = ChatbotService();
   final LocationService _locationService = LocationService();
@@ -34,19 +34,22 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
     if (message.isEmpty) return;
 
     setState(() {
-      _messages.add('You: $message');
+      _messages.add({'type': 'user', 'message': message});
       _isLoading = true;
     });
+
+    // 전송 후 입력란 초기화
+    _controller.clear();
 
     try {
       String response = await _chatbotService.sendMessage(message);
       setState(() {
-        _messages.add('Bot: $response');
+        _messages.add({'type': 'bot', 'message': response});
         _isLoading = false;
       });
     } catch (e) {
       setState(() {
-        _messages.add('Error: Failed to load chatbot response');
+        _messages.add({'type': 'bot', 'message': 'Error: Failed to load chatbot response'});
         _isLoading = false;
       });
     }
@@ -81,11 +84,27 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
     }
   }
 
+  Widget _buildMessage(Map<String, String> message) {
+    bool isUser = message['type'] == 'user';
+    return Align(
+      alignment: isUser ? Alignment.centerRight : Alignment.centerLeft,
+      child: Container(
+        padding: const EdgeInsets.all(10),
+        margin: const EdgeInsets.symmetric(vertical: 5, horizontal: 10),
+        decoration: BoxDecoration(
+          color: isUser ? Colors.blue[200] : Colors.grey[300],
+          borderRadius: BorderRadius.circular(10),
+        ),
+        child: Text(message['message'] ?? ''),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Recycle Helper Chatbot'),
+        title: const Text('재활용 도우미'),
       ),
       body: Column(
         children: [
@@ -93,8 +112,18 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
             child: ListView.builder(
               itemCount: _messages.length,
               itemBuilder: (context, index) {
-                return ListTile(
-                  title: Text(_messages[index]),
+                return Column(
+                  crossAxisAlignment: _messages[index]['type'] == 'user'
+                      ? CrossAxisAlignment.end
+                      : CrossAxisAlignment.start,
+                  children: [
+                    if (_messages[index]['type'] == 'bot')
+                      Text(
+                        '재활용 도우미',
+                        style: const TextStyle(fontWeight: FontWeight.bold),
+                      ),
+                    _buildMessage(_messages[index]),
+                  ],
                 );
               },
             ),
@@ -112,7 +141,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
                   child: TextField(
                     controller: _controller,
                     decoration: const InputDecoration(
-                      hintText: 'Enter your message',
+                      hintText: '메세지를 입력하세요',
                     ),
                   ),
                 ),
