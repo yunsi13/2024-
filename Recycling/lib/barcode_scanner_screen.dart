@@ -14,7 +14,7 @@ class BarcodeScannerScreen extends StatelessWidget {
         allowDuplicates: false,
         onDetect: (barcode, args) {
           final String? code = barcode.rawValue;
-          Navigator.pop(context, code);
+          Navigator.pop(context, code); // 스캔 결과를 반환
         },
       ),
     );

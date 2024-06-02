@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:geolocator/geolocator.dart';
-import 'package:geocoding/geocoding.dart';
 import 'barcode_scanner_screen.dart';
 import 'chatbot_service.dart';
-import 'location_service.dart';
 
 class ChatbotScreen extends StatefulWidget {
   const ChatbotScreen({Key? key}) : super(key: key);
@@ -18,18 +15,19 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
   final List<Map<String, String>> _messages = [];
   bool _isLoading = false;
   final ChatbotService _chatbotService = ChatbotService();
-  final LocationService _locationService = LocationService();
 
   @override
   void initState() {
     super.initState();
-    _requestLocationPermission();
+    _requestLocationPermission(); // 위치 권한 요청
   }
 
+  // 위치 권한 요청
   Future<void> _requestLocationPermission() async {
     await Permission.location.request();
   }
 
+  // 메시지를 전송하고 응답을 받는 함수
   Future<void> _sendMessage(String message) async {
     if (message.isEmpty) return;
 
@@ -43,6 +41,8 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
 
     try {
       String response = await _chatbotService.sendMessage(message);
+
+      // 챗봇 응답을 대화 내역에 추가
       setState(() {
         _messages.add({'type': 'bot', 'message': response});
         _isLoading = false;
@@ -55,24 +55,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
     }
   }
 
-  Future<void> _sendLocation() async {
-    Position? position = await _locationService.getCurrentLocation();
-
-    if (position != null) {
-      List<Placemark> placemarks = await placemarkFromCoordinates(position.latitude, position.longitude);
-      if (placemarks.isNotEmpty) {
-        Placemark place = placemarks[0];
-        String address = "${place.locality}, ${place.administrativeArea}, ${place.country}";
-        String locationMessage = "제 위치는: $address 입니다";
-        _sendMessage(locationMessage);
-      } else {
-        _sendMessage("주소를 가져올 수 없습니다.");
-      }
-    } else {
-      _sendMessage("위치를 가져올 수 없습니다.");
-    }
-  }
-
+  // 바코드 스캔 함수
   Future<void> _scanBarcode() async {
     final result = await Navigator.push(
       context,
@@ -84,6 +67,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
     }
   }
 
+  // 메시지 위젯 생성 함수
   Widget _buildMessage(Map<String, String> message) {
     bool isUser = message['type'] == 'user';
     return Align(
@@ -165,11 +149,6 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
               ElevatedButton(
                 onPressed: _scanBarcode,
                 child: const Text('바코드 스캔'),
-              ),
-              const SizedBox(width: 10),
-              ElevatedButton(
-                onPressed: _sendLocation,
-                child: const Text('위치 전송'),
               ),
             ],
           ),

@@ -6,6 +6,7 @@ import 'dart:io';
 class DatabaseService {
   Database? _database;
 
+  // 데이터베이스 인스턴스를 가져오는 함수
   Future<Database> get database async {
     if (_database != null) return _database!;
 
@@ -13,6 +14,7 @@ class DatabaseService {
     return _database!;
   }
 
+  // 데이터베이스 초기화 함수
   Future<Database> _initDatabase() async {
     String dbPath = await getDatabasesPath();
     String path = join(dbPath, 'recycle_data.db');
@@ -43,6 +45,7 @@ class DatabaseService {
     );
   }
 
+  // 바코드 번호로 제품 정보를 가져오는 함수
   Future<Map<String, dynamic>?> getProductInfo(int barcode) async {
     final db = await database;
     final List<Map<String, dynamic>> results = await db.rawQuery(
