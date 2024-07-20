@@ -1,0 +1,3232 @@
+[
+    {
+        "name": "신안군 읍내리 787",
+        "latitude": 35.05754,
+        "longitude": 126.20577
+    },
+    {
+        "name": "신안군 신용리 332-1",
+        "latitude": 34.87535,
+        "longitude": 126.30396
+    },
+    {
+        "name": "신안군 방축리 514-13",
+        "latitude": 35.01188,
+        "longitude": 126.12384
+    },
+    {
+        "name": "신안군 대기리 278-2",
+        "latitude": 35.11256,
+        "longitude": 126.10219
+    },
+    {
+        "name": "신안군 대기리 2784-1",
+        "latitude": 35.11256,
+        "longitude": 126.10219
+    },
+    {
+        "name": "신안군 구영리 1077",
+        "latitude": 34.88597,
+        "longitude": 126.04623
+    },
+    {
+        "name": "신안군 자라리 275",
+        "latitude": 34.69392,
+        "longitude": 126.1873
+    },
+    {
+        "name": "신안군 도창리 724-1",
+        "latitude": 34.82308,
+        "longitude": 126.0855
+    },
+    {
+        "name": "여수시 미평동 673-1 ",
+        "latitude": 34.7732645,
+        "longitude": 127.7074495
+    },
+    {
+        "name": "여수시 호명동 646-8",
+        "latitude": 34.80566,
+        "longitude": 127.7179454
+    },
+    {
+        "name": "여수시 봉계동 816-1",
+        "latitude": 34.7830789,
+        "longitude": 127.6807818
+    },
+    {
+        "name": "여수시 화양면 나진리 237-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "여수시 돌산읍 둔전리 90",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "여수시 소라면 복산리 1390-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "여수시 화양면 나진리 436-9",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "여수시 율촌면 산수리 365-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "여수시 국동 954-40",
+        "latitude": 34.7317182,
+        "longitude": 127.7151483
+    },
+    {
+        "name": "여수시 관문동 131",
+        "latitude": 34.7425976,
+        "longitude": 127.743566
+    },
+    {
+        "name": "여수시 안산동 546-2",
+        "latitude": 34.7558765,
+        "longitude": 127.6499792
+    },
+    {
+        "name": "여수시 해산동 129",
+        "latitude": 34.8011327,
+        "longitude": 127.6394918
+    },
+    {
+        "name": "여수시 산수리 1551",
+        "latitude": 34.87479,
+        "longitude": 127.54953
+    },
+    {
+        "name": "여수시 안포리 793-4",
+        "latitude": 34.65549,
+        "longitude": 127.62528
+    },
+    {
+        "name": "여수시 고소동 637-1",
+        "latitude": 34.7396469,
+        "longitude": 127.7408593
+    },
+    {
+        "name": "여수시 옥적리 1303-4",
+        "latitude": 34.71272,
+        "longitude": 127.57485
+    },
+    {
+        "name": "여수시 국동 193-481",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "여수시 봉계동 683",
+        "latitude": 34.7830789,
+        "longitude": 127.6807818
+    },
+    {
+        "name": "여수시 평사리 12-13",
+        "latitude": 34.67652,
+        "longitude": 127.77227
+    },
+    {
+        "name": "여수시 옥적리 1635-1",
+        "latitude": 34.71272,
+        "longitude": 127.57485
+    },
+    {
+        "name": "여수시 반월리 516-4",
+        "latitude": 34.813892,
+        "longitude": 127.5528333
+    },
+    {
+        "name": "여수시 취적리 233-4",
+        "latitude": 34.84945,
+        "longitude": 127.59421
+    },
+    {
+        "name": "여수시 하화리 231-6",
+        "latitude": 34.59232,
+        "longitude": 127.61629
+    },
+    {
+        "name": "여수시 광림동 384-22",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "여수시 서덕리 191-9",
+        "latitude": 34.63472,
+        "longitude": 127.7616
+    },
+    {
+        "name": "여수시 현천리 495-2",
+        "latitude": 34.75802,
+        "longitude": 127.605
+    },
+    {
+        "name": "여수시 현천리 188-5",
+        "latitude": 34.75802,
+        "longitude": 127.605
+    },
+    {
+        "name": "여수시 이천리 642-2",
+        "latitude": 34.73418,
+        "longitude": 127.57983
+    },
+    {
+        "name": "여수시 문수동 72-1",
+        "latitude": 34.7559876,
+        "longitude": 127.7001925
+    },
+    {
+        "name": "여수시 취적리 758",
+        "latitude": 34.84945,
+        "longitude": 127.59421
+    },
+    {
+        "name": "여수시 봉전리 449-3",
+        "latitude": 34.81822,
+        "longitude": 127.53406
+    },
+    {
+        "name": "여수시 화태리 444-73",
+        "latitude": 34.58421,
+        "longitude": 127.72808
+    },
+    {
+        "name": "여수시 금성리 488-3",
+        "latitude": 34.59942,
+        "longitude": 127.76793
+    },
+    {
+        "name": "여수시 가장리 1639-3",
+        "latitude": 34.84041,
+        "longitude": 127.56232
+    },
+    {
+        "name": "여수시 서촌리 436-4",
+        "latitude": 34.69085,
+        "longitude": 127.57872
+    },
+    {
+        "name": "여수시 신복리 1394-4",
+        "latitude": 34.61279,
+        "longitude": 127.75244
+    },
+    {
+        "name": "여수시 가장리 1810-8",
+        "latitude": 34.84041,
+        "longitude": 127.56232
+    },
+    {
+        "name": "여수시 가장리 727-11",
+        "latitude": 34.84041,
+        "longitude": 127.56232
+    },
+    {
+        "name": "여수시 서촌리 688-7",
+        "latitude": 34.69085,
+        "longitude": 127.57872
+    },
+    {
+        "name": "영광군 영광읍 교촌리 161-1,-7",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 영광읍 신하리 322-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 영광읍 학정리 321-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 영광읍 도동리 150-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 백수읍 장산리 512-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 홍농읍 진덕리 189-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 염산면 봉남리 1220-8",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 홍농읍 샘목로2길 21",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 영광읍 남천리 106-7",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 영광읍 단주리 629-12",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 영광읍 와룡리 863",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 영광읍 단주리 608",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 군서면 마읍리 1037-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 백수읍 백수로 10길 10",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 홍농읍 상하리 151-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 법성면 법성리 1210-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 법성면 신장길4길 22",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 영광읍 도동리 107-84",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 영광읍 백학리 359-10",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영광군 영광읍 대하길1길 1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 영암읍 개신리 100-11",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 영암읍 용흥리 491-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 대신리 411-1",
+        "latitude": 34.79902,
+        "longitude": 126.72004
+    },
+    {
+        "name": "영암군 영암읍 회문리 678",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 삼호읍 난전리 2171",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 삼호읍 용당리 844",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 삼포리 308",
+        "latitude": 34.74396,
+        "longitude": 126.40277
+    },
+    {
+        "name": "영암군 삼호읍 망산리 337-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 덕진면 운암리 183-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 덕진리 277-6",
+        "latitude": 34.81971,
+        "longitude": 126.69693
+    },
+    {
+        "name": "영암군 덕진면 영보리 292",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 금정면 와운리 470-15",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 금정면 남송리 803-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 안노리 950-1",
+        "latitude": 34.88412,
+        "longitude": 126.76343
+    },
+    {
+        "name": "영암군 금정면 월평2리 184-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 신북면 용산리 519",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 신북면 오장성길3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 신월길 7-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 신북면 모산리 661-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 시종면 월롱길38",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 구산리 1151",
+        "latitude": 34.86069,
+        "longitude": 126.57656
+    },
+    {
+        "name": "영암군 시종면 신학리 1088",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 도포면 안풍길3-15",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 성산리 290-5",
+        "latitude": 34.86196,
+        "longitude": 126.67041
+    },
+    {
+        "name": "영암군 도포면 목우동길 90-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 군서면 도갑리 462-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 군서면 호동길53-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 해창리 374-4",
+        "latitude": 34.81248,
+        "longitude": 126.64595
+    },
+    {
+        "name": "영암군 군서면 동호리 770-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 서호면 금강리 528-10",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 서호면 소산리523-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 몽해리 306-25",
+        "latitude": 34.74126,
+        "longitude": 126.60737
+    },
+    {
+        "name": "영암군 서호면 청용1리 360",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 학산면 상월리 199-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 학산면 금계리561-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 용소리 497-24",
+        "latitude": 34.71128,
+        "longitude": 126.61271
+    },
+    {
+        "name": "영암군 학산면 용산리 945-18",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 미암면 호포리 455-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 미암면 신포리519",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "영암군 춘동리 370-1",
+        "latitude": 34.69703,
+        "longitude": 126.56218
+    },
+    {
+        "name": "영암군 미암면 두억1리 57-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 단광리168-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 학전리250-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 월산리289-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 월평리599-22",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 보생리437",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 홍정리232",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 장산리518-8",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 영천리429",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 선적리741-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 율곡리69-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 분향리790-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 월평리437-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 장산리21-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 미락단지길28",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 사거리81-10",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 신월리54-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 상림리321",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 진원리406",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 단광리570-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 단광리573-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 상오리313-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 백계리80-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 상림리581-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 금계리402-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 죽청리559-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 영천리114-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 상오리629",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 율곡리278-62",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 산정리44-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 용산리698-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 선적리661",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 사창로64-72",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 신호리675-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 필암리771-115",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 장산리697-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 장산리704-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 모암리686-30",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 달성리433-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 신평리529",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 중평리476-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 단전리361",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 영천리973-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 영천리845-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 영천리1388-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 장산리404-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 장산리382-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장성군 오월리506-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 732-14",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 478-19",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 행원리 992-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 448-9",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 702-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 565-11",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 669-14",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 기양리 155",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 동동리 197-2",
+        "latitude": 34.6660519,
+        "longitude": 126.9068076
+    },
+    {
+        "name": "장흥군 장흥읍 남동리 28",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 예양리 121-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 244-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 383-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 1-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 우산리 545-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 651-9",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 부산면 부춘리 133-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 기양리 109-2",
+        "latitude": 34.6630679,
+        "longitude": 126.8970697
+    },
+    {
+        "name": "장흥군 장흥읍 평화리 733-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 예양리 47-2 ",
+        "latitude": 34.6681434,
+        "longitude": 126.9112037
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 796-7",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 435-7",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 41-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 752",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 767",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 568",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 관덕리 215-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 덕제리 537-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 송암리 270",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 건산리 112-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 동동리 187-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 관산읍 옥당리 456-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 대덕읍 도청리 491",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 용산면 인암리 1106-8",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 안양면 기산리 803-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 안양면 기산리 산65-17",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장동면 북교리 7-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장평면 선정리 517-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 유치면 원등리 43",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 부산면 유량리 75-8",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 회진면 회진리 762-13",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 덕제리 238",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 영전리 334-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 남외리 259-57",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 행원리 401-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 금산리 486-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 상리 73-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 축내리 245",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 관산읍 지정리 260-9",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 대덕읍 연정리 145",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 대덕읍 연지리 246-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 안양면 지천리 407-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 안양면 운흥리 520-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장동면 용곡리 산 119",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장평면 우산리 580-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 유치면 반월리 518-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 부산면 내안리 653-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 부산면 구룡리 300",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 부산면 용반리 277-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 회진면 회진리 1878-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 회진면 진목리 195-42",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 기양리 53",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 예양리 88",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 예양리 산 10-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 원도리 308-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장흥읍 원도리 315",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 관산읍 옥당리 1001",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 대덕읍 가학리 333-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 용산면 금곡리 242-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 안양면 당암리 454-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장동면 조양리 433",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 장평면 청용리 331-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 유치면 대천리 557-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 부산면 내안리 938-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "장흥군 회진면 덕산리 2136-10",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "진도군 진도읍 지도길 271-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "진도군 진도읍 교동2길 8",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "진도군 진도읍 쌍정2길 12-7",
+        "latitude": 34.4814541,
+        "longitude": 126.2656263
+    },
+    {
+        "name": "진도군 진도읍 4길 21",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "진도군 진도읍 동외3길 26",
+        "latitude": 34.4830245,
+        "longitude": 126.2699507
+    },
+    {
+        "name": "진도군 진도읍 교동5길 65",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "진도군 진도읍 동문길 56",
+        "latitude": 34.4867618,
+        "longitude": 126.2698882
+    },
+    {
+        "name": "진도군 진도읍 동외4길 51",
+        "latitude": 34.4849736,
+        "longitude": 126.2774968
+    },
+    {
+        "name": "진도군 진도읍 교동2길 20",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "진도군 진도읍 남산2길 36",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "진도군 진도읍 남산로 96",
+        "latitude": 34.47284,
+        "longitude": 126.26037
+    },
+    {
+        "name": "진도군 진도읍 쌍정1길 8-42",
+        "latitude": 34.4805742,
+        "longitude": 126.2667193
+    },
+    {
+        "name": "진도군 진도읍 서문길 50",
+        "latitude": 34.4870568,
+        "longitude": 126.2626114
+    },
+    {
+        "name": "진도군 진도읍 수역리 842",
+        "latitude": 34.51396,
+        "longitude": 126.23227
+    },
+    {
+        "name": "진도군 군내면 덕병리 977-3",
+        "latitude": 34.52805,
+        "longitude": 126.28437
+    },
+    {
+        "name": "진도군 군내면 금골길 36",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "진도군 고군면 지막리 877-2",
+        "latitude": 34.4864979,
+        "longitude": 126.3501441
+    },
+    {
+        "name": "진도군 고군면 오일시2길 107-17",
+        "latitude": 34.5082052,
+        "longitude": 126.3073029
+    },
+    {
+        "name": "진도군 고군면 오산리 1977-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "진도군 의신면 옥대리 963-3",
+        "latitude": 34.44229,
+        "longitude": 126.28789
+    },
+    {
+        "name": "진도군 의신면 청용리 481",
+        "latitude": 34.43909,
+        "longitude": 126.3001
+    },
+    {
+        "name": "진도군 임회면 석교길 38",
+        "latitude": 34.4063122,
+        "longitude": 126.1907351
+    },
+    {
+        "name": "진도군 임회면 십일시길 47-12",
+        "latitude": 34.4090066,
+        "longitude": 126.1924188
+    },
+    {
+        "name": "진도군 임회면 삼막리 1467-2",
+        "latitude": 34.43068,
+        "longitude": 126.2213
+    },
+    {
+        "name": "진도군 지산면 가치리 526-19",
+        "latitude": 34.43997,
+        "longitude": 126.11373
+    },
+    {
+        "name": "함평군 함평군 함평읍 기각리 991-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 엄다면 엄다리 803-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 월야면 월야리 758-15",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 함평읍 장교리 744-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 함평읍 성남리 34-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 손불면 궁산리 31-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 함평읍 대덕리 838-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 함평읍 자풍리 615-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 함평읍 수호리 568-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 함평읍 진양리 254-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 학교면 학교리 1060-10",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 학교면 죽정리 85-14",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 엄다면 노상길 19",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "함평군 대동면 백호리 1068-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 해남읍 남천리 339-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 해남읍 안동리 176-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 해남읍 구교리 526-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 해남읍 읍내리 50",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 해남읍 구교리 839-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 해남읍 수성리 63",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 해남읍 남외리 113-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 해남읍 신안리 138-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 삼산면 창리 329",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 삼산면 평활리 473-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 삼산면 상가리 340-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 화산면 금풍리 523-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 현산면 초호리 628-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 현산면 조산리 369-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 현산면 고현리 1039-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 송지면 소죽리 493-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 송지면 산정리 542-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 송지면 마봉리 1257",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 북평면 동해리 620-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 북일면 용일리 749-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 북일면 흥촌리 848-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 북일면 흥촌리 158-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 옥천면 영신리 477-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 옥천면 백호리 412-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 계곡면 사정리 110-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 계곡면 가학리 95",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 마산면 연구리 363",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 마산면 화내리 637-16",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 황산면 한자리 1123-12",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 황산면 남리리 764-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 황산면 연호리 391-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 황산면 우항리 317-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 산이면 대진리 445-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 산이면 진산리 515-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 산이면 덕송리 817",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 문내면 동내리 1117-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 문내면 무고리 168-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 문내면 용암리 733-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 문내면 용암리 300-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 화원면 마산리 152-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 화원면 장춘리 624-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 화원면 산호리 91",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "전라남도 해남군 화원면 화봉리 596-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 서성리 217-2",
+        "latitude": 34.6383866,
+        "longitude": 126.7551433
+    },
+    {
+        "name": "강진군 강진읍 서성리 40-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 동성리 237-2",
+        "latitude": 34.6310122,
+        "longitude": 126.7610237
+    },
+    {
+        "name": "강진군 강진읍 남성리 55-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 동성리 233-22",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 동성리 300-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 동성리 314-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 목리 70-2",
+        "latitude": 34.6253304,
+        "longitude": 126.7734605
+    },
+    {
+        "name": "강진군 강진읍 평동리 244-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 남성리 23-13",
+        "latitude": 34.6371092,
+        "longitude": 126.7801256
+    },
+    {
+        "name": "강진군 성전면 월평리 430-17",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 신전면 사초리 794",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 서문길 3",
+        "latitude": 34.6408782,
+        "longitude": 126.7629269
+    },
+    {
+        "name": "강진군 강진읍 평동 2길 21",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 남포길 42-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 남포길 64",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 군동면 호계리 1056-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 성전면 월평리 28-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 평동리 4-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 성전면 명산리 1242-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "강진군 강진읍 남포길 28",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 읍내리 776-22",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 읍내리 713-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 읍내리 387",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 읍내리 533-7",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 읍내2길 6",
+        "latitude": 35.2781209,
+        "longitude": 127.2911251
+    },
+    {
+        "name": "곡성군 곡성읍 읍내2길 13",
+        "latitude": 35.2781209,
+        "longitude": 127.2911251
+    },
+    {
+        "name": "곡성군 곡성읍 충의로 203",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 삼기면 괴소리 612-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 목사동면 신전리 537-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 고달면 두가리 715번지",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 옥과면 무창리 1250번지",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 옥과면 대학로 139-2",
+        "latitude": 35.2750821,
+        "longitude": 127.1428933
+    },
+    {
+        "name": "곡성군 옥과면 죽림2길 45",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 오산면 봉동리 292-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 오산면 가곡리 754-7",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 신기리 677-7번지",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 삼기면 괴소리 136-4번지",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 고달면 죽림마을길 28-1번지 ",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 옥과면 합강리 557-1번지",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 옥과면 죽림 5길 3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 겸면 운교리 727-1번지",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 오산면 연화길 113",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 학정리",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 석곡면 석곡리",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 대평2길 33-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 오곡면 송정리 산3-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 목사동면 죽정리 657",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 죽곡면 고치리 389-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 겸면 마전길 150-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 오산면 단사리434-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 오산면 선세리745-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 대평리 1202-13",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 학정리 451-7",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 석곡면 연동길 34",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 죽곡면 본토길 30",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 고달면 대사리 331-6",
+        "latitude": 35.30751,
+        "longitude": 127.3332
+    },
+    {
+        "name": "곡성군 옥과면 옥과리 241-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 옥과면 배감길 114",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 입면 금산상금길 118",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 입면 만수리 45",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 겸면 산정리 340-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 오산면 조양리 576",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 곡성읍 읍내리 634",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 입면 만수리 45",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 겸면 산정리 340-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "곡성군 오산면 반석리길 26-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 광양읍 월파길 51-13",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 봉강면 부저리 164",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 옥룡면 죽천리 1040-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 다압면 다사길 39-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 봉강면 서석길 13-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 진상면 구황길 35-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 진상면 신황길 67",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 다압면 금천리 1239-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 옥곡면 대죽리 1264-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 옥곡면 신금리 1282",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 중군동 94-2",
+        "latitude": 34.9625239,
+        "longitude": 127.6721803
+    },
+    {
+        "name": "광양시 중군동 209",
+        "latitude": 34.9625239,
+        "longitude": 127.6721803
+    },
+    {
+        "name": "광양시 옥룡면 율천길 94-12",
+        "latitude": 35.0036928,
+        "longitude": 127.6171922
+    },
+    {
+        "name": "광양시 광양읍 내우정길 46",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 봉강면 봉당리 848",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 봉강면 지실길 7",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 옥룡면 동곡리 산106-30",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 옥곡면 장안길 13-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 광양읍 사곡리 본정길6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 광양읍 구산리 576-104",
+        "latitude": 34.979567,
+        "longitude": 127.57426461016831
+    },
+    {
+        "name": "광양시 광양읍 신도길 1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 광양읍 우산리 739",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 옥곡면 대죽리 1387",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 옥곡면 수평리 126-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 광양읍 사곡리 1021-14",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 옥룡면 동곡리 1225-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 옥룡면 용곡리 1336-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 광영동 707",
+        "latitude": 34.962653,
+        "longitude": 127.7164505
+    },
+    {
+        "name": "광양시 중마로 400",
+        "latitude": 34.9241777,
+        "longitude": 127.6888748
+    },
+    {
+        "name": "광양시 광영동 686",
+        "latitude": 34.962653,
+        "longitude": 127.7164505
+    },
+    {
+        "name": "광양시 광영동 713",
+        "latitude": 34.962653,
+        "longitude": 127.7164505
+    },
+    {
+        "name": "광양시 광영동 714",
+        "latitude": 34.962653,
+        "longitude": 127.7164505
+    },
+    {
+        "name": "광양시 광영동 548 앞",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 광양읍 인서리 463-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광양시 중동 1642",
+        "latitude": 34.9379939,
+        "longitude": 127.6923994
+    },
+    {
+        "name": "광양시 광양읍 읍내리 226",
+        "latitude": 34.973238,
+        "longitude": 127.583132
+    },
+    {
+        "name": "광양시 중마동 1642",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 내남동 538-1",
+        "latitude": 35.0915973,
+        "longitude": 126.9403105
+    },
+    {
+        "name": "광주광역시 소태길 57",
+        "latitude": 35.1210115,
+        "longitude": 126.9400087
+    },
+    {
+        "name": "광주광역시 소태길 39번길 5 ",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 의재로 88번길 20",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 성촌길 12 ",
+        "latitude": 35.1344549,
+        "longitude": 126.954212
+    },
+    {
+        "name": "광주광역시 소태동 711-4",
+        "latitude": 35.1210734,
+        "longitude": 126.935949
+    },
+    {
+        "name": "광주광역시 지산동 463-22",
+        "latitude": 35.1947863,
+        "longitude": 126.7337499
+    },
+    {
+        "name": "광주광역시 필문대로205번길 17",
+        "latitude": 35.1534158,
+        "longitude": 126.9322235
+    },
+    {
+        "name": "광주광역시 산수길 25번길 8-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 산수길 13",
+        "latitude": 35.1563982,
+        "longitude": 126.9277286
+    },
+    {
+        "name": "광주광역시 참판로 20번길 24",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 산수길 35번길 22",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 백서로 166번길 9-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 서석동 421-5",
+        "latitude": 35.1425263,
+        "longitude": 126.928997
+    },
+    {
+        "name": "광주광역시 지산동 692-32",
+        "latitude": 35.1947863,
+        "longitude": 126.7337499
+    },
+    {
+        "name": "광주광역시 덕흥1길 63",
+        "latitude": 35.1682829,
+        "longitude": 126.835249
+    },
+    {
+        "name": "광주광역시 덕흥동 78",
+        "latitude": 35.1662784,
+        "longitude": 126.836961
+    },
+    {
+        "name": "광주광역시 덕흥1길 32",
+        "latitude": 35.1682829,
+        "longitude": 126.835249
+    },
+    {
+        "name": "광주광역시 덕흥동 57-4",
+        "latitude": 35.1662784,
+        "longitude": 126.836961
+    },
+    {
+        "name": "광주광역시 양동 438-66",
+        "latitude": 35.15259535,
+        "longitude": 126.90120644380194
+    },
+    {
+        "name": "광주광역시 유촌동 851",
+        "latitude": 35.1643042,
+        "longitude": 126.851776
+    },
+    {
+        "name": "광주광역시 화정동 794-2",
+        "latitude": 35.1455508,
+        "longitude": 126.8761023
+    },
+    {
+        "name": "광주광역시 화정동 1204",
+        "latitude": 35.1455508,
+        "longitude": 126.8761023
+    },
+    {
+        "name": "광주광역시 농성동 345-65",
+        "latitude": 35.1541526,
+        "longitude": 126.8884127
+    },
+    {
+        "name": "광주광역시 양동 371",
+        "latitude": 35.15259535,
+        "longitude": 126.90120644380194
+    },
+    {
+        "name": "광주광역시 광천동 106-7",
+        "latitude": 35.1647499,
+        "longitude": 126.8810106
+    },
+    {
+        "name": "광주광역시 치평동 1196",
+        "latitude": 35.152758,
+        "longitude": 126.8449919184395
+    },
+    {
+        "name": "광주광역시 내방동 481-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 풍암동 982",
+        "latitude": 35.1242195,
+        "longitude": 126.87511186272812
+    },
+    {
+        "name": "광주광역시 서창동 155-1",
+        "latitude": 35.12017625,
+        "longitude": 126.83942882987304
+    },
+    {
+        "name": "광주광역시 세하동 319-1",
+        "latitude": 35.1209267,
+        "longitude": 126.8318976
+    },
+    {
+        "name": "광주광역시 매월동 438-1",
+        "latitude": 35.1154386,
+        "longitude": 126.8510188
+    },
+    {
+        "name": "광주광역시 벽진동 315-9",
+        "latitude": 35.13196,
+        "longitude": 126.83206
+    },
+    {
+        "name": "광주광역시 마륵동 468-2",
+        "latitude": 35.145146,
+        "longitude": 126.8372627
+    },
+    {
+        "name": "광주광역시 백운동 98-37",
+        "latitude": 35.1377798,
+        "longitude": 126.9042413
+    },
+    {
+        "name": "광주광역시 주월동 436-44",
+        "latitude": 35.1308326,
+        "longitude": 126.8973416
+    },
+    {
+        "name": "광주광역시 석정동 130-1",
+        "latitude": 35.0854899,
+        "longitude": 126.8161434
+    },
+    {
+        "name": "광주광역시 양림동 201-243",
+        "latitude": 35.13835,
+        "longitude": 126.91441
+    },
+    {
+        "name": "광주광역시 압촌동 111-2",
+        "latitude": 35.0918633,
+        "longitude": 126.8326125
+    },
+    {
+        "name": "광주광역시 월산동 1059-2",
+        "latitude": 35.14579485,
+        "longitude": 126.90024087269543
+    },
+    {
+        "name": "광주광역시 반룡로 27번길 36",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 용주로 2",
+        "latitude": 35.1821244,
+        "longitude": 126.9011312
+    },
+    {
+        "name": "광주광역시 금당마을길 61-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 충효샘길 13",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 청풍동 800",
+        "latitude": 35.1736801,
+        "longitude": 126.9650665
+    },
+    {
+        "name": "광주광역시 태령동 240-1",
+        "latitude": 35.2514547,
+        "longitude": 126.9277082
+    },
+    {
+        "name": "광주광역시 신촌샛강길 120-7",
+        "latitude": 35.1730036,
+        "longitude": 126.962243
+    },
+    {
+        "name": "광주광역시 오치동 1001",
+        "latitude": 35.187174,
+        "longitude": 126.913192
+    },
+    {
+        "name": "광주광역시 용전동 629-100",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 용전동 629-101",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 지야동 809-5",
+        "latitude": 35.2340697,
+        "longitude": 126.8842131
+    },
+    {
+        "name": "광주광역시 용강동 199-27",
+        "latitude": 35.2534863,
+        "longitude": 126.9068651
+    },
+    {
+        "name": "광주광역시 용강동 413-4",
+        "latitude": 35.2534863,
+        "longitude": 126.9068651
+    },
+    {
+        "name": "광주광역시 생용동 475-3",
+        "latitude": 35.2324229,
+        "longitude": 126.9022229
+    },
+    {
+        "name": "광주광역시 오치동 913-1",
+        "latitude": 35.187174,
+        "longitude": 126.913192
+    },
+    {
+        "name": "광주광역시 월계동 815-1 앞 도로",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "광주광역시 월계동 789-1",
+        "latitude": 35.2141311,
+        "longitude": 126.8385309
+    },
+    {
+        "name": "광주광역시 산월동 185-1",
+        "latitude": 35.2054595,
+        "longitude": 126.848904
+    },
+    {
+        "name": "광주광역시 신창동 1102-6",
+        "latitude": 35.1901594,
+        "longitude": 126.8467735
+    },
+    {
+        "name": "광주광역시 우산동 1025-2",
+        "latitude": 35.1542122,
+        "longitude": 126.81521850486143
+    },
+    {
+        "name": "광주광역시 신창동 1196-11",
+        "latitude": 35.1901594,
+        "longitude": 126.8467735
+    },
+    {
+        "name": "나주시 남평읍 우산리 1225 ",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "나주시 보현길 3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "나주시 평산동 57-1",
+        "latitude": 34.9853128,
+        "longitude": 126.7514872
+    },
+    {
+        "name": "나주시 동수동 104-2",
+        "latitude": 34.9794189,
+        "longitude": 126.683131
+    },
+    {
+        "name": "무안군 남악리 1697공",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "무안군 남악리2466",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "무안군 남악리 1721대",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "무안군 남악리 1500도",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "무안군 남악리2517",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "무안군 남악리2503",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "무안군 남악리 1553",
+        "latitude": 34.8122034,
+        "longitude": 126.4675442
+    },
+    {
+        "name": "무안군 남악리 1697공",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "무안군 임성리 1373",
+        "latitude": 34.83089,
+        "longitude": 126.44916
+    },
+    {
+        "name": "무안군 왕산리 220-9",
+        "latitude": 34.86515,
+        "longitude": 126.40438
+    },
+    {
+        "name": "무안군 교촌길 89-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "무안군 성동리 627-1",
+        "latitude": 34.98819,
+        "longitude": 126.49721
+    },
+    {
+        "name": "무안군 교촌리 744-5",
+        "latitude": 34.98913,
+        "longitude": 126.46277
+    },
+    {
+        "name": "무안군 남악리 2141",
+        "latitude": 34.8122034,
+        "longitude": 126.4675442
+    },
+    {
+        "name": "무안군 도림리 311-1",
+        "latitude": 34.91253,
+        "longitude": 126.43727
+    },
+    {
+        "name": "무안군 성내리 21-13",
+        "latitude": 34.99388,
+        "longitude": 126.47871
+    },
+    {
+        "name": "무안군 광산리 175",
+        "latitude": 35.09754,
+        "longitude": 126.2887
+    },
+    {
+        "name": "무안군 광산리 520-8",
+        "latitude": 35.09754,
+        "longitude": 126.2887
+    },
+    {
+        "name": "무안군 수양리 808-6",
+        "latitude": 35.06078,
+        "longitude": 126.39633
+    },
+    {
+        "name": "무안군 수양리 808-6",
+        "latitude": 35.06078,
+        "longitude": 126.39633
+    },
+    {
+        "name": "무안군 지산리 1172-1",
+        "latitude": 34.87378,
+        "longitude": 126.43056
+    },
+    {
+        "name": "무안군 매곡리 304-7",
+        "latitude": 35.02049,
+        "longitude": 126.45832
+    },
+    {
+        "name": "보성군 대야리 1392-4",
+        "latitude": 34.75636,
+        "longitude": 127.03064
+    },
+    {
+        "name": "보성군 봉산리 1435-6",
+        "latitude": 34.7333,
+        "longitude": 127.09162
+    },
+    {
+        "name": "보성군 우산리 332-11",
+        "latitude": 34.7575,
+        "longitude": 127.08409
+    },
+    {
+        "name": "보성군 보성리 60-5",
+        "latitude": 34.77132,
+        "longitude": 127.08588
+    },
+    {
+        "name": "보성군 주봉리 229-7",
+        "latitude": 34.77501,
+        "longitude": 127.0707
+    },
+    {
+        "name": "보성군 옥전리 335",
+        "latitude": 34.84316,
+        "longitude": 127.2508
+    },
+    {
+        "name": "보성군 회정리 540-40",
+        "latitude": 34.8487987,
+        "longitude": 127.3530516
+    },
+    {
+        "name": "보성군 장좌리 297",
+        "latitude": 34.8316,
+        "longitude": 127.33811
+    },
+    {
+        "name": "보성군 고읍리 707-4",
+        "latitude": 34.86277,
+        "longitude": 127.3123
+    },
+    {
+        "name": "보성군 석호리 454-4",
+        "latitude": 34.8402,
+        "longitude": 127.16175
+    },
+    {
+        "name": "보성군 용암리 731-1",
+        "latitude": 34.94571,
+        "longitude": 127.21061
+    },
+    {
+        "name": "보성군 양동리 1468-7",
+        "latitude": 34.91893,
+        "longitude": 127.19495
+    },
+    {
+        "name": "보성군 동산리 594-2",
+        "latitude": 34.9023,
+        "longitude": 127.18351
+    },
+    {
+        "name": "보성군 봉능리 50-2",
+        "latitude": 34.80031,
+        "longitude": 127.22046
+    },
+    {
+        "name": "보성군 용전리 761-1",
+        "latitude": 34.88391,
+        "longitude": 127.14617
+    },
+    {
+        "name": "보성군 봉능리 352-1",
+        "latitude": 34.80031,
+        "longitude": 127.22046
+    },
+    {
+        "name": "보성군 예당리 320-10",
+        "latitude": 34.77524,
+        "longitude": 127.19005
+    },
+    {
+        "name": "보성군 비봉리 241-1",
+        "latitude": 34.70952,
+        "longitude": 127.18772
+    },
+    {
+        "name": "보성군 오봉리 761-17",
+        "latitude": 34.75585,
+        "longitude": 127.20649
+    },
+    {
+        "name": "보성군 정흥리 119-1",
+        "latitude": 34.74568,
+        "longitude": 127.12684
+    },
+    {
+        "name": "보성군 예당리 505-1",
+        "latitude": 34.77524,
+        "longitude": 127.19005
+    },
+    {
+        "name": "보성군 봉천리 397-1",
+        "latitude": 34.90189,
+        "longitude": 127.13793
+    },
+    {
+        "name": "보성군 봉강리 899-3",
+        "latitude": 34.66345,
+        "longitude": 127.0429
+    },
+    {
+        "name": "보성군 추동리 694-1",
+        "latitude": 34.88279,
+        "longitude": 127.27709
+    },
+    {
+        "name": "보성군 용전리 95-3",
+        "latitude": 34.88391,
+        "longitude": 127.14617
+    },
+    {
+        "name": "보성군 반석리 268-1",
+        "latitude": 34.9012,
+        "longitude": 127.12532
+    },
+    {
+        "name": "보성군 남양리 697-3",
+        "latitude": 34.81091,
+        "longitude": 127.1539
+    },
+    {
+        "name": "보성군 예당리 830-5",
+        "latitude": 34.77524,
+        "longitude": 127.19005
+    },
+    {
+        "name": "보성군 이동리 1285-1",
+        "latitude": 34.88095,
+        "longitude": 127.22222
+    },
+    {
+        "name": "순천시 옥천동 217-1",
+        "latitude": 34.95201,
+        "longitude": 127.48104
+    },
+    {
+        "name": "순천시 매곡동 562-1",
+        "latitude": 34.9633113,
+        "longitude": 127.481635
+    },
+    {
+        "name": "순천시 석현동 183-36",
+        "latitude": 34.9798454,
+        "longitude": 127.4629862
+    },
+    {
+        "name": "순천시 가곡동 949-7",
+        "latitude": 34.9837607,
+        "longitude": 127.4825875
+    },
+    {
+        "name": "순천시 가곡동 1011",
+        "latitude": 34.9837607,
+        "longitude": 127.4825875
+    },
+    {
+        "name": "순천시 석현동 산4-11",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 장자보1길 54",
+        "latitude": 34.9490756,
+        "longitude": 127.516768
+    },
+    {
+        "name": "순천시 연향번영길 94",
+        "latitude": 34.9504165,
+        "longitude": 127.51801102936751
+    },
+    {
+        "name": "순천시 생목동 197",
+        "latitude": 34.954377,
+        "longitude": 127.5074155
+    },
+    {
+        "name": "순천시 연향동 116-35",
+        "latitude": 34.9420457,
+        "longitude": 127.5216039
+    },
+    {
+        "name": "순천시 생목동 28-66",
+        "latitude": 34.954377,
+        "longitude": 127.5074155
+    },
+    {
+        "name": "순천시 연향동 1490",
+        "latitude": 34.9420457,
+        "longitude": 127.5216039
+    },
+    {
+        "name": "순천시 연향동 1550",
+        "latitude": 34.9420457,
+        "longitude": 127.5216039
+    },
+    {
+        "name": "순천시 저전동 47-3",
+        "latitude": 34.9483538,
+        "longitude": 127.4770644
+    },
+    {
+        "name": "순천시 저전동 106-4",
+        "latitude": 34.9483538,
+        "longitude": 127.4770644
+    },
+    {
+        "name": "순천시 장천동 8-123",
+        "latitude": 34.9495792,
+        "longitude": 127.4893804
+    },
+    {
+        "name": "순천시 장천동 81",
+        "latitude": 34.9495792,
+        "longitude": 127.4893804
+    },
+    {
+        "name": "순천시 성동3길 8",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 동외동 83",
+        "latitude": 34.9568978,
+        "longitude": 127.4878126
+    },
+    {
+        "name": "순천시 동외동 117-5",
+        "latitude": 34.9568978,
+        "longitude": 127.4878126
+    },
+    {
+        "name": "순천시 동외동 177-17",
+        "latitude": 34.9568978,
+        "longitude": 127.4878126
+    },
+    {
+        "name": "순천시 연자로 36",
+        "latitude": 34.9550481,
+        "longitude": 127.4853705
+    },
+    {
+        "name": "순천시 우석2길 65",
+        "latitude": 34.9457248,
+        "longitude": 127.4896763
+    },
+    {
+        "name": "순천시 오천동 61-15",
+        "latitude": 34.9299065,
+        "longitude": 127.4972172
+    },
+    {
+        "name": "순천시 덕월동 1054-2",
+        "latitude": 34.9291905,
+        "longitude": 127.4840311
+    },
+    {
+        "name": "순천시 인월동 38-10",
+        "latitude": 34.89406,
+        "longitude": 127.48289
+    },
+    {
+        "name": "순천시 인월동 52-3",
+        "latitude": 34.89406,
+        "longitude": 127.48289
+    },
+    {
+        "name": "순천시 인월동 984-6",
+        "latitude": 34.89406,
+        "longitude": 127.48289
+    },
+    {
+        "name": "순천시 오천동 949-2",
+        "latitude": 34.9299065,
+        "longitude": 127.4972172
+    },
+    {
+        "name": "순천시 대대동 438-1",
+        "latitude": 34.8925971,
+        "longitude": 127.5059755
+    },
+    {
+        "name": "순천시 안풍동 490-4",
+        "latitude": 34.8869675,
+        "longitude": 127.4979706
+    },
+    {
+        "name": "순천시 대룡동 1105-10",
+        "latitude": 34.9064098,
+        "longitude": 127.4899822
+    },
+    {
+        "name": "순천시 안풍동 532",
+        "latitude": 34.8869675,
+        "longitude": 127.4979706
+    },
+    {
+        "name": "순천시 교량동 1078-1",
+        "latitude": 34.9013844,
+        "longitude": 127.5144568
+    },
+    {
+        "name": "순천시 대대동 1550-14",
+        "latitude": 34.8925971,
+        "longitude": 127.5059755
+    },
+    {
+        "name": "순천시 승주읍 승주로 731",
+        "latitude": 35.0144373,
+        "longitude": 127.3898493
+    },
+    {
+        "name": "순천시 승주읍 서평리 423-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 승주읍 봉덕리 310-2",
+        "latitude": 35.015317,
+        "longitude": 127.3707972
+    },
+    {
+        "name": "순천시 주암면 구산리 797-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 주암면 운룡리 617-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 주암면 갈마리 238-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 주암면 광천리 76-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 주암면 오산리 185-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 주암면 행정리 559-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 주암면 창동주암길 112",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 주암면 운룡리 618",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 주암면 구산리 542-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 장안리 1566-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 삼청리 171",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 이읍리 935-9",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 대흥리 28-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 이읍리 496",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 후곡리 810-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 오봉리 801-11",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 신흥리108-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 구룡리 587",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 우산리 878-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 송광면 장안리 2092-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 외서면 신덕리 286-2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 외서면 장산리 35-27",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 외서면 화전리 320-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 외서면 화전리 482-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 외서면 금성리 612-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 외서면 반용리 199-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 낙안면 노암길 78",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 낙안면 평촌리 304-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 낙안면 금산리 375-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 낙안면 동내리 202",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 낙안면 평사리 181-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 낙안면 교촌리 138-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 낙안면 내운리 805",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 낙안면 석정길 13",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 쌍림리 646-9",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 쌍림리 455-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 구룡리 84-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 원창리 124",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 마산리 498-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 송기리 371-13",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 죽산리 389-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 쌍림리 74",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 덕정리 141-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 학산리 502-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 우산리 976-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 구룡리 652",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 학산리 805-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 죽산리 1277",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 금치리 780-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 학산리 297",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 봉림리 1140-5",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 별량면 송기리 574-2",
+        "latitude": 34.8453211,
+        "longitude": 127.4298226
+    },
+    {
+        "name": "순천시 별량면 송기리 633",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 상사면 용계리 산 110-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 상사면 봉래리 585",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 상사면 마륜리 507",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 남가리 595-2",
+        "latitude": 34.9480515,
+        "longitude": 127.552577
+    },
+    {
+        "name": "순천시 해룡면 신대리 247-3",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 복성리 372-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 도롱리 96-8",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 신흥길 11",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 대안리 1170",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 농주리 155",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 농주리 158",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 농주리 산 40-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 상내리 846",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 신성리 302-1",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 해룡면 대안리 44-6",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 서면 지본리 3-17",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 서면 압곡리 81-4",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 서면 노은2길 2",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 서면 판교안길 162",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 서면 구상길25",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 황전면 선변리 929",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 황전면 죽청리 699",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "순천시 월등면 농선리 588",
+        "latitude": null,
+        "longitude": null
+    }
+]
