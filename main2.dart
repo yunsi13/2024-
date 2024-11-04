@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -23,14 +24,15 @@ class MyApp extends StatelessWidget {
                 child: buildAnimatedImageButton(
                   imagePath: 'assets/images/map.png',
                   label: "지도",
+                  style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                   color: Colors.teal.withOpacity(0.2),
                   onTap: () {
                     print("지도 버튼 클릭됨");
                   },
                   size: 420, // 버튼 크기
                   height: 250, // 버튼 크기
-                  imageWidth: 180, // 이미지 너비
-                  imageHeight: 180, // 이미지 높이
+                  imageWidth: 100, // 이미지 너비
+                  imageHeight: 100, // 이미지 높이
                 ),
               ),
               SizedBox(height: 20), // 지도와 카메라/바코드 간격
@@ -60,6 +62,27 @@ class MyApp extends StatelessWidget {
   }
 
   Widget buildTipSection() {
+    List<String> tips = [
+      "재활용 가능 품목은 깨끗하게 씻어서 배출해야 더욱 효과적입니다.",
+      "음식물쓰레기는 물기를 제거하고 전용 용기에 담아 배출해야 악취 발생을 줄일 수 있습니다.",
+      "소각 쓰레기는 다른 폐기물과 섞이지 않도록 꼼꼼하게 분리 배출해야 합니다.",
+      "재활용 가능 품목이더라도 깨진 유리, 헌옷, 폐식용유 등은 별도로 배출해야 합니다.",
+      "뚜껑은 플라스틱, 용기는 플라스틱으로 분류해야 합니다.",
+      "깨진 유리는 신문지에 싸서 버리세요.",
+    ];
+
+    // Index to keep track of the current tip
+    int currentTipIndex = 0;
+
+    // A controller to update the UI periodically
+    ValueNotifier<String> currentTip = ValueNotifier(tips[currentTipIndex]);
+
+    // Start a timer to update the tip every 10 seconds
+    Timer.periodic(Duration(seconds: 10), (Timer timer) {
+      currentTipIndex = (currentTipIndex + 1) % tips.length;
+      currentTip.value = tips[currentTipIndex];
+    });
+
     return Container(
       margin: EdgeInsets.only(top: 16.0),
       decoration: BoxDecoration(
@@ -72,15 +95,21 @@ class MyApp extends StatelessWidget {
         },
         child: Container(
           padding: EdgeInsets.symmetric(vertical: 20, horizontal: 16),
-          alignment: Alignment.center,
           child: Row(
-            mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Icon(Icons.lightbulb_outline, color: Colors.green),
-              SizedBox(width: 5),
-              Text(
-                "Tip",
-                style: TextStyle(fontSize: 20, color: Colors.black),
+              Icon(Icons.lightbulb_outline, color: Colors.green, size: 24),
+              SizedBox(width: 10), // 아이콘과 텍스트 간격
+              Expanded(
+                child: ValueListenableBuilder<String>(
+                  valueListenable: currentTip,
+                  builder: (context, value, child) {
+                    return Text(
+                      value,
+                      style: TextStyle(fontSize: 16, color: Colors.black),
+                      textAlign: TextAlign.left,
+                    );
+                  },
+                ),
               ),
             ],
           ),
@@ -89,6 +118,7 @@ class MyApp extends StatelessWidget {
     );
   }
 
+
   Widget buildAnimatedImageButton({
     required String imagePath,
     required String label,
@@ -96,8 +126,9 @@ class MyApp extends StatelessWidget {
     required VoidCallback onTap,
     double size = 160,
     double height = 160,
-    double imageWidth = 160, // 이미지 너비 추가
-    double imageHeight = 160, // 이미지 높이 추가
+    double imageWidth = 160,
+    double imageHeight = 160,
+    TextStyle? style, // 스타일 매개변수 추가
   }) {
     return StatefulBuilder(
       builder: (context, setState) {
@@ -136,13 +167,14 @@ class MyApp extends StatelessWidget {
                 children: [
                   Image.asset(
                     imagePath,
-                    fit: BoxFit.contain,
-                    width: imageWidth, // 이미지 너비 설정
-                    height: imageHeight, // 이미지 높이 설정
+                    fit: BoxFit.cover,
+                    width: imageWidth,
+                    height: imageHeight,
                   ),
+                  SizedBox(height: 8),
                   Text(
                     label,
-                    style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+                    style: style ?? TextStyle(fontSize: 16, fontWeight: FontWeight.bold), // 스타일 적용
                   ),
                 ],
               ),
@@ -152,6 +184,7 @@ class MyApp extends StatelessWidget {
       },
     );
   }
+
 
   Widget buildAnimatedCameraButton() {
     return StatefulBuilder(
@@ -181,8 +214,8 @@ class MyApp extends StatelessWidget {
             scale: isPressed ? 0.9 : 1.0,
             duration: Duration(milliseconds: 100),
             child: Container(
-              width: 150, // 버튼 너비
-              height: 400, // 버튼 높이
+              width: 150,
+              height: 400,
               padding: EdgeInsets.all(16),
               decoration: BoxDecoration(
                 color: Colors.black.withOpacity(0.2),
@@ -191,11 +224,11 @@ class MyApp extends StatelessWidget {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Icon(Icons.camera_alt, size: 150, color: Colors.black),
+                  Icon(Icons.camera_alt, size: 100, color: Colors.black),
                   SizedBox(height: 8),
                   Text(
                     "카메라",
-                    style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                   ),
                 ],
               ),
@@ -234,8 +267,8 @@ class MyApp extends StatelessWidget {
             scale: isPressed ? 0.9 : 1.0,
             duration: Duration(milliseconds: 100),
             child: Container(
-              width: 150, // 버튼 너비
-              height: 400, // 버튼 높이
+              width: 150,
+              height: 400,
               padding: EdgeInsets.all(16),
               decoration: BoxDecoration(
                 color: Colors.black.withOpacity(0.2),
@@ -244,11 +277,11 @@ class MyApp extends StatelessWidget {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Icon(Icons.qr_code, size: 150, color: Colors.black),
+                  Icon(Icons.qr_code, size: 100, color: Colors.black),
                   SizedBox(height: 8),
                   Text(
                     "바코드",
-                    style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                   ),
                 ],
               ),
